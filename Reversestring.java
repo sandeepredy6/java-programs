@@ -1,7 +1,9 @@
+package Practicejava;
+
 public class Reversestring {
     
     public static void main(String[] args) {
-        String originalString = "234";
+        String originalString = "HelloWrold";
         
         // Create a StringBuilder with the original string
         StringBuilder builder = new StringBuilder(originalString);
